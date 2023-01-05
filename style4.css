@@ -1,0 +1,133 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+}
+section{
+    position: relative;
+    background-image: url(image/img47.png);
+    width: 100vw;
+    height: 850px;
+}
+
+.ul{
+    display: flex;
+    position: relative;
+    margin-left: 470px;
+    top: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 90%;
+    text-align: center;
+    color: #FFFFFF;
+}
+li{
+    list-style: none;
+    padding: 12px;
+}
+.push{
+    position: relative;
+    margin-left: 350px ;
+    border: #FFFFFF solid 1px;
+    border-radius: 3px;
+}
+.des{
+    position: relative;
+    top: 55px;
+    width: 180px;
+    left: 60px;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.container7{
+    position: relative;
+    align-content: center;
+    top: 70px;
+    height: 785px;
+    left: 20px;
+}
+.input{
+    position: relative;
+    width: 470px;
+height: 40px;
+top: 70px;
+left: 456px;
+background: #FFFFFF;
+border-radius: 8px;
+}
+#input4{
+    height: 100px;
+    
+}
+.cont{
+    position: relative;
+width: 310px;
+height: 59px;
+left: 565px;
+top: 40px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 123.3%;
+color: #FFFFFF;
+}
+.but1{
+    position: relative;
+    width: 177px;
+    height: 60px;
+    background: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-radius: 8px;
+    left: 600px;
+    top: 90px;
+}
+.container10{
+    position: relative;
+    top: 0px;
+    background-image: url(image/img30.png);
+}
+#container10{
+    position: relative;
+    top: 50px;
+    left: 40px;
+}
+.container11{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 70px;
+}
+
+#container11{
+    display: flex;
+}
+footer{
+    background-color: #13151A;
+    position: relative;
+    top: -20px;
+    height: 150px;
+}
+.container12{
+    position: relative;
+    text-align: center;
+width: 301px;
+height: 19px;
+text-align: center;
+top: 80px;
+left: 560px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+}

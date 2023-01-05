@@ -1,0 +1,382 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+.ul{
+    display: flex;
+    position: relative;
+    margin-left: 470px;
+    top: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 90%;
+    text-align: center;
+    color: #FFFFFF;
+}
+li{
+    list-style: none;
+    padding: 12px;
+}
+.push{
+    position: relative;
+    margin-left: 350px ;
+    border: #FFFFFF solid 1px;
+    border-radius: 3px;
+}
+.des{
+    position: relative;
+    top: 55px;
+    width: 180px;
+    left: 60px;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.first1{
+    position: relative;
+    top: 350px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 100%;
+    right: 20px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.first{
+    position: relative;
+    text-align: center;
+    top: 300px;
+    right: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+.but{
+    position: relative;
+    left: 630px;
+    top: 300px;
+    width: 140px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+
+}
+section{
+    background-image: url(image/image3.png);
+    width: 100vw;
+    height: 800px;
+    
+
+}
+h5{
+    position: relative;
+    width: 479px;
+    height: 18px;
+    left: 460px;
+    
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 90%;
+    color: #808080;
+}
+.container,.container1,.container3,.container4{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+}
+.container2{
+    display: flex;
+    position: relative;
+    left: 150px;
+    top: 40px;
+}
+.container3{
+    position: relative;
+    padding: 20px;
+}
+.child{
+    padding: 40px;
+}
+.child30{
+    width: 350px;
+    padding: 40px;
+}
+
+.child1{
+    position: relative;
+    padding: 10px;
+    
+    
+}
+.child3{
+    position: relative;
+    left: 20px;
+}
+#child3{
+    color:#808080 ;
+}
+.child4{
+    position: relative;
+  
+    width: 558px;
+    height: 222px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 74px;
+
+    color: #000000;
+    
+
+
+}
+
+#child1{
+    position: relative;
+    top: 60px;
+}
+.class1{
+    position: relative;
+    left: 160px;
+    top: 80px;
+}
+.class2{
+    position: relative;
+    left: 80%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 90%;
+
+color: #000000;
+}
+.container5{
+    position: relative;
+    top: 20px;
+    background-image: url(image/img21.png);
+}
+.container6{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 70px;
+    gap: 70px;
+   
+}
+#child6,#child7{
+    padding: 50px;
+    border: solid 1px;
+    border-radius: 5px;
+    
+
+}
+#child7{
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 20px;
+
+}
+span{
+    display: flex;
+    position: relative;
+    top: 20px;
+    gap: 10px;
+}
+#quote{
+    font-size: 2em;
+    color: #808080;
+}
+.container7{
+    position: relative;
+    align-content: center;
+    top: 100px;
+    background-image: url(image/img22.png);
+    height: 785px;
+}
+.input{
+    position: relative;
+    width: 529px;
+height: 60px;
+top: 70px;
+left: 456px;
+background: #FFFFFF;
+border-radius: 8px;
+}
+.but1{
+    position: relative;
+    width: 177px;
+    height: 60px;
+    background: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-radius: 8px;
+    left: 600px;
+    top: 170px;
+}
+#input4{
+    height: 100px;
+    
+}
+.cont{
+    position: relative;
+width: 310px;
+height: 59px;
+left: 565px;
+top: 40px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 123.3%;
+/* or 59px */
+
+
+color: #FFFFFF;
+}
+.container8{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 150px;
+    gap: 70px;
+
+}
+ol{
+    display: flex;   
+}
+#pull{
+    border: #808080 solid 1px;
+    background-color: #808080;
+    border-radius:50% ;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 90%;
+
+}
+.child8{
+    position: relative;
+    top: 130px;
+    text-align: center;
+
+}
+#child8{
+    color: #808080;
+}
+.class8{
+    position: relative;
+    top: 150px;
+    left: 82%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 90%;
+
+color: #000000;
+}
+.container9{
+    position: relative;
+    background-image: url(image/img29.png);
+    top: 180px;
+    height: 400px;
+}
+#input{
+    position: relative;
+    width: 529px;
+height: 60px;
+top: 70px;
+left: 456px;
+background: #FFFFFF;
+border-radius: 8px;
+}
+#button{
+    position: absolute;
+width: 134px;
+height: 60px;
+left: 67%;
+top: 185px;
+
+
+background: #FFFFFF;
+border: 2px solid #FFFFFF;
+border-radius: 8px;
+}
+#child9,.child9{
+    position: relative;
+    top: 40px;
+    color: #FFFFFF;
+    text-align: center;
+   
+}
+.container10{
+    position: relative;
+    top: 150px;
+    background-image: url(image/img30.png);
+}
+.container11{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 90px;
+}
+#container10{
+    position: relative;
+    top: 50px;
+    left: 40px;
+}
+#container11{
+    display: flex;
+}
+footer{
+    background-color: #13151A;
+    position: relative;
+    top: 130px;
+    height: 150px;
+}
+.container12{
+    position: relative;
+    text-align: center;
+width: 301px;
+height: 19px;
+text-align: center;
+top: 80px;
+left: 500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+}
+/* mobile responsiveness */
+@media screen and (max-width: 835px){
+    
+}
